@@ -17,3 +17,5 @@ spring:
   profiles: test
   application:
     name: microservicecloud-config-test
+	
+	#我是中文
