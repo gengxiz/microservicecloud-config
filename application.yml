@@ -1,21 +1,15 @@
 ﻿spring:
-  profiles: 
+  profiles:
     active:
     - dev
-  
 ---
-server:
-  port: 82
 spring:
-  profiles: dev
-  application:
-    name: microservicecloud-config-dev
+  profiles: dev     #开发环境
+  application: 
+    name: microservicecloud-config-atguigu-dev
 ---
-server:
-  port: 86
 spring:
-  profiles: test
-  application:
-    name: microservicecloud-config-test
-
-#我是中文
+  profiles: test   #测试环境
+  application: 
+    name: microservicecloud-config-atguigu-test
+#  请保存为UTF-8格式
