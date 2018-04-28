@@ -1,4 +1,4 @@
-spring:
+锘縮pring:
   profiles: 
     active:
     - dev
@@ -18,4 +18,4 @@ spring:
   application:
     name: microservicecloud-config-test
 	
-	#我是中文
+	#鎴戞槸涓枃
