@@ -2,4 +2,5 @@ xiaosu
 wo dansheng
 :wq
 dev modeify
+master su gui chun
 xiao ai
