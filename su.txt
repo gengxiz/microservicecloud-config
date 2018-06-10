@@ -3,4 +3,5 @@ wo dansheng
 :wq
 dev modeify
 wo ai ni zhang xiao chun
+master su gui chun
 xiao ai
